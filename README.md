@@ -1,4 +1,4 @@
-🎮 Video Game Data Analysis
+🎮 Project: Data Analysis of Sales Strategies Oriented to SQL
 
 🎯 Project: Video Game Data Analysis on Prices, Discounts, and Genres
 Welcome to the Video Game Data Analysis project. This project focuses on analyzing video game data to gain insights into pricing, discounts, and genre trends. Using a variety of data analysis and visualization techniques, we aim to uncover patterns and provide actionable insights within the video game market.
